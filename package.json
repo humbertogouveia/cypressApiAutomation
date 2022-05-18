@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npx serverest",
-    "cy:run": "npx serverest && npx cypress run"
+    "cy:run": "npx cypress run"
   },
   "keywords": [],
   "author": "Humberto Gouveia",
