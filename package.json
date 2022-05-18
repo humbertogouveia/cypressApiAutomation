@@ -1,0 +1,16 @@
+{
+  "name": "dbc-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serverest",
+    "cy:run": "npx serverest && npx cypress run"
+  },
+  "keywords": [],
+  "author": "Humberto Gouveia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
